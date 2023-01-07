@@ -7,11 +7,20 @@
 
 import SwiftUI
 
+class NavigationHelper: ObservableObject {
+    @Published var selection: String? = nil
+}
+
 @main
 struct navigationpocApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            ContentView()
+//                .environmentObject(AppState())
+//            BackPortView()
+//            ArrayBindingView()
+//            RootView()
+            UiPilot()
         }
     }
 }

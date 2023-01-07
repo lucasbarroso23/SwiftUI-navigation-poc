@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "flowstacks",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/johnpatrickmorgan/FlowStacks.git",
+      "state" : {
+        "revision" : "8d1bc577fcab0c09d599f1f2f6747db2d15f84f4",
+        "version" : "0.3.0"
+      }
+    },
+    {
+      "identity" : "navigationbackport",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/johnpatrickmorgan/NavigationBackport.git",
+      "state" : {
+        "revision" : "36274228d8fc5b47d0209c259fe68e9e138ea899",
+        "version" : "0.7.0"
+      }
+    },
+    {
+      "identity" : "swiftui-navigation-stack",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/matteopuc/swiftui-navigation-stack.git",
+      "state" : {
+        "revision" : "9e45f85008f5ad1fc0b3ee2d9e0ff1ca77f52efa",
+        "version" : "1.0.6"
+      }
+    },
+    {
+      "identity" : "uipilot",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/canopas/UIPilot.git",
+      "state" : {
+        "revision" : "33b8123dd1e68d861d0cfce27879d5ff1755fd21",
+        "version" : "2.0.2"
+      }
+    }
+  ],
+  "version" : 2
+}
